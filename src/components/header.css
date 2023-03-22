@@ -1,0 +1,26 @@
+.App-header {
+    background-color: #202734;
+    height: 10%;
+    max-height: 25vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 4vmin;
+    color: rgb(0, 195, 195);
+  }
+
+  .Header-title {
+    text-align: center;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+
+  .App-logo {
+    max-height: 25vh;
+    border-radius: 50%;
+    border: 1px solid rgb(242, 76, 5);
+    pointer-events: none;
+  }
